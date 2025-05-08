@@ -7,7 +7,7 @@ A simple Django application for managing a book catalog/store.
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:HassanA01/django-app.git
+git clone git@github.com:HassanA01/bookstore-app.git
 cd bookstore-app
 ```
 
