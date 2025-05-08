@@ -27,6 +27,7 @@ pip install -r requirements.txt
 4. Run migrations:
 
 ```bash
+cd bookstore
 python manage.py migrate
 ```
 
