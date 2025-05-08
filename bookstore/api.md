@@ -65,24 +65,6 @@ The response is an HTML page containing a list of books matching the filters. Ea
 - Price
 - Tags
 
-### Models
-
-#### Book
-
-- title: string
-- author: string
-- price: decimal
-- category: foreign key to Category
-- tags: many-to-many with Tag
-
-#### Category
-
-- name: string (unique)
-
-#### Tag
-
-- name: string (unique)
-
 ### Example Usage with cURL
 
 ```bash
