@@ -8,7 +8,7 @@ A simple Django application for managing a book catalog/store.
 
 ```bash
 git clone git@github.com:HassanA01/django-app.git
-cd django-app
+cd bookstore-app
 ```
 
 2. Create and activate virtual environment:
